@@ -6,7 +6,7 @@
   * Html：超文件標籤語言 (HyperText Markup Language)，用來描述網站的架構、資訊
   * CSS：層疊樣式表 (Cascading Style Sheets)，用來控制網站顯示的樣式
   * JavaScript (JS)：用來處理網站上需要邏輯判斷的功能，如動態網站、處理網頁上所有動作、或是更細節的動畫
-
+<br>
 
 ## 後端 Back-End (商業邏輯處理)
 * 如同 Shiny 中的 server.R 
@@ -17,12 +17,16 @@
   * Ruby：開發快速，範例：Airbnb、Twitter
   * JavaScript (Node.js)：高病發的情況執行效率極高，不適合 CPU 密集應用，範例：Yahoo、Walmart、阿里巴巴
   * Go：有很完善的標準庫，效能佳，速度快，學習資源少，範例：Google、Youtube
-* 靜態網站：網頁伺服器 (Web Server)
+* 靜態網站 (Static Website)：網頁伺服器 (Web Server)
   * 特性：靜態檔案，不涉及資料庫
-* 動態：AP Server
-
-  
+  * 可視需求安裝 DB Server
+* 動態網站 (Dynamic WebSite)：AP Server
+  * 特性：能儲存使用者互動的資訊，依使用者回資料庫拉對應資料塞回網頁顯示
+  * 
+<br>
+* 三層式架構：Web Server → Web API(提供服務) → DB Server
+<br>  
 
 ## 參考資料
 * https://medium.com/appworks-school/%E7%B6%B2%E9%A0%81%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80-%E5%88%9D%E6%8E%A2%E7%B6%B2%E9%A0%81%E6%9E%B6%E6%A7%8B%E5%92%8C%E5%89%8D%E5%BE%8C%E7%AB%AF%E8%AA%9E%E8%A8%80-a88a5dc86ee3
-
+<br>
