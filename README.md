@@ -17,6 +17,7 @@
   * Ruby：開發快速，範例：Airbnb、Twitter
   * JavaScript (Node.js)：高病發的情況執行效率極高，不適合 CPU 密集應用，範例：Yahoo、Walmart、阿里巴巴
   * Go：有很完善的標準庫，效能佳，速度快，學習資源少，範例：Google、Youtube
+* 特性：把關資料的安全性 (第二道防線)
 * 靜態網站 (Static Website)：網頁伺服器 (Web Server)
   * 特性：靜態檔案，不涉及資料庫
   * 可視需求安裝 DB Server
