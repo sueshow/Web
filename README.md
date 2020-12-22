@@ -22,8 +22,6 @@
   * 可視需求安裝 DB Server
 * 動態網站 (Dynamic WebSite)：AP Server
   * 特性：能儲存使用者互動的資訊，依使用者回資料庫拉對應資料塞回網頁顯示
-  * 
-<br>
 * 三層式架構：Web Server → Web API(提供服務) → DB Server
 <br>  
 
