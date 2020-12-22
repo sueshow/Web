@@ -1,11 +1,11 @@
 # 網站的基本架構
 
-## 前端
+## 前端 (介面)
 * 如同 Shiny 中的 ui.R 
 * 程式語言：
-  * Html：標籤語言 (Markup Language)，用來描述網站的架構、資訊
-  * CSS：樣式表 (StyleSheet)，用來控制網站顯示的樣式
-  * JavaScript：用來處理網站上需要邏輯判斷的功能，如動態網站、處理網頁上所有動作、或是更細節的動畫
+  * Html：超文件標籤語言 (HyperText Markup Language)，用來描述網站的架構、資訊
+  * CSS：層疊樣式表 (Cascading Style Sheets)，用來控制網站顯示的樣式
+  * JavaScript (JS)：用來處理網站上需要邏輯判斷的功能，如動態網站、處理網頁上所有動作、或是更細節的動畫
 
 
 ## 後端
@@ -15,8 +15,8 @@
   * Java：應用層面廣，開發較慢，範例：Linkedin、Amazon
   * Python：語法易學，數據分析與資料探勘應用多，單獨使用運行性能較差，範例：Instagram、Reddit
   * Ruby：開發快速，範例：Airbnb、Twitter
-  * JavaScript (Node.js)：高病發的情況執行效率極高，不適合 CPU 密集應用，範例：Yahoo、Walmart
-  * Go：有很完善的標準庫，效能佳，學習資源少，範例：Google、Youtube
+  * JavaScript (Node.js)：高病發的情況執行效率極高，不適合 CPU 密集應用，範例：Yahoo、Walmart、阿里巴巴
+  * Go：有很完善的標準庫，效能佳，速度快，學習資源少，範例：Google、Youtube
 * 靜態：Web Server
 * 動態：AP Server
 
