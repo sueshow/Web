@@ -18,9 +18,8 @@
   * JavaScript (Node.js)：高病發的情況執行效率極高，不適合 CPU 密集應用，範例：Yahoo、Walmart
   * Go：有很完善的標準庫，效能佳，學習資源少，範例：Google、Youtube
 * 靜態：Web Server
-  * 程式語言：
 * 動態：AP Server
-  * 程式語言：
+
   
 
 ## 參考資料
