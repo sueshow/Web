@@ -31,6 +31,6 @@
 <br>  
 
 ## 參考資料
-* ![網頁新手入門：初探網頁架構和前後端語言](https://medium.com/appworks-school/%E7%B6%B2%E9%A0%81%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80-%E5%88%9D%E6%8E%A2%E7%B6%B2%E9%A0%81%E6%9E%B6%E6%A7%8B%E5%92%8C%E5%89%8D%E5%BE%8C%E7%AB%AF%E8%AA%9E%E8%A8%80-a88a5dc86ee3)
-* ![PM筆記：前端與後端、基本網站架構](https://medium.com/%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E6%96%87%E8%97%9D%E5%BE%A9%E8%88%88/pm%E7%AD%86%E8%A8%98-%E5%89%8D%E7%AB%AF%E8%88%87%E5%BE%8C%E7%AB%AF-%E5%9F%BA%E6%9C%AC%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B-a679cd7a7bfc)
+* [網頁新手入門：初探網頁架構和前後端語言](https://medium.com/appworks-school/%E7%B6%B2%E9%A0%81%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80-%E5%88%9D%E6%8E%A2%E7%B6%B2%E9%A0%81%E6%9E%B6%E6%A7%8B%E5%92%8C%E5%89%8D%E5%BE%8C%E7%AB%AF%E8%AA%9E%E8%A8%80-a88a5dc86ee3)
+* [PM筆記：前端與後端、基本網站架構](https://medium.com/%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E6%96%87%E8%97%9D%E5%BE%A9%E8%88%88/pm%E7%AD%86%E8%A8%98-%E5%89%8D%E7%AB%AF%E8%88%87%E5%BE%8C%E7%AB%AF-%E5%9F%BA%E6%9C%AC%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B-a679cd7a7bfc)
 <br>
