@@ -1,6 +1,6 @@
 # 網站的基本架構
 
-## 前端 (介面)
+## 前端 Front-End (介面)
 * 如同 Shiny 中的 ui.R 
 * 程式語言：
   * Html：超文件標籤語言 (HyperText Markup Language)，用來描述網站的架構、資訊
@@ -8,7 +8,7 @@
   * JavaScript (JS)：用來處理網站上需要邏輯判斷的功能，如動態網站、處理網頁上所有動作、或是更細節的動畫
 
 
-## 後端 (商業邏輯處理)
+## 後端 Back-End (商業邏輯處理)
 * 如同 Shiny 中的 server.R 
 * 程式語言：
   * PHP：最普遍，易學，範例：Facebook、Wordpress
