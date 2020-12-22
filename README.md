@@ -25,7 +25,9 @@
   * 特性：能儲存使用者互動的資訊，依使用者回資料庫拉對應資料塞回網頁顯示
 <br>
 
+## 網站架構
 * 三層式架構：Web Server → Web API(提供服務) → DB Server
+* 前端語言 → 瀏覽器 (chrome/firefox) → 伺服器 (apache/nginx/IIS) → 後端語言 → 資料庫 (DB)
 <br>  
 
 ## 參考資料
