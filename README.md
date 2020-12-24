@@ -21,8 +21,11 @@
 * 靜態網站 (Static Website)：網頁伺服器 (Web Server)
   * 特性：靜態檔案，不涉及資料庫
   * 可視需求安裝 DB Server
-* 動態網站 (Dynamic WebSite)：AP Server
-  * 特性：能儲存使用者互動的資訊，依使用者回資料庫拉對應資料塞回網頁顯示
+* 動態網站 (Dynamic WebSite)：應用程式伺服器 (application server；AP Server)
+  * 特性：
+    * 提供商業邏輯服務、與前端串接的入口/介面、系統間互相串連
+    * 能儲存使用者互動的資訊，依使用者回資料庫拉對應資料塞回網頁顯示
+  * 為了與外界串接 (提供服務)，需要使用指定網路傳輸協定 (Communications Protocol)，兩個串接的系統才能有同樣的二元資料 (0/1) 解讀規則。常見的如：http(s)、websocket、ftp(s)...等
 <br>
 
 ## 網站架構
