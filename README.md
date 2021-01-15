@@ -3,9 +3,9 @@
 ## 前端 Front-End (介面)
 * 如同 Shiny 中的 ui.R 
 * 程式語言：
-  * Html：超文件標籤語言 (HyperText Markup Language)，用來描述網站的架構、資訊
-  * CSS：層疊樣式表 (Cascading Style Sheets)，用來控制網站顯示的樣式
-  * JavaScript (JS)：用來處理網站上需要邏輯判斷的功能，如動態網站、處理網頁上所有動作、或是更細節的動畫
+  * Html (HyperText Markup Language)：負責定義網頁的結構、內容。作為資訊模型 (Model)
+  * CSS (Cascading Style Sheets)：負責內容的展現方式。控制樣式 (View)
+  * JS (JavaScript)：負責網頁關於動態的行為反應、需要邏輯判斷的功能，如動態網站、處理網頁上所有動作、更細節的動畫。負責排程資料和實現某種展現邏輯
 <br>
 
 ## 後端 Back-End (商業邏輯處理)
