@@ -1,6 +1,7 @@
 # 網站的基本架構
 
 ## 前端 Front-End (介面)
+* 主要涉及網站和 App
 * 如同 Shiny 中的 ui.R 
 * 程式語言：
   * Html (HyperText Markup Language)：負責定義網頁的結構、內容。作為資訊模型 (Model)
